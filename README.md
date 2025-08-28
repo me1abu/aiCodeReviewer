@@ -1,4 +1,4 @@
-# AI Code Review
+# AiCodeReviewer
 
 This project is a full-stack application that uses AI to review code snippets and provide suggestions for improvements. It consists of a React frontend and an Express backend integrated with Google's Gemini AI.
 
@@ -58,3 +58,4 @@ This project is a full-stack application that uses AI to review code snippets an
 ## License
 
 MIT
+
